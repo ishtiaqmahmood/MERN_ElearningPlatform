@@ -1,0 +1,8 @@
+.jumbotron {
+  height: 200px;
+  background-image: linear-gradient(to right, #007bff, #000);
+  color: white;
+}
+.text-center {
+  padding-top: 80px;
+}
